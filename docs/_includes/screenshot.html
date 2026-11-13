@@ -1,0 +1,15 @@
+{%- comment -%}
+Renders an image when the file is present in assets/img. While it is missing, it renders a
+labelled placeholder (file name and what to capture) unless image_placeholders is false.
+{%- endcomment -%}
+{%- assign path = '/assets/img/' | append: include.src -%}
+{%- assign file = site.static_files | where: 'path', path | first -%}
+{%- if file -%}
+<p><img src="{{ path | relative_url }}" alt="{{ include.alt }}"></p>
+{%- elsif site.image_placeholders -%}
+<div class="image-placeholder" role="img" aria-label="Image placeholder: {{ include.alt }}">
+  <strong>Image placeholder</strong>
+  <code>{{ include.src }}</code>
+  <span>{{ include.alt }}</span>
+</div>
+{%- endif -%}

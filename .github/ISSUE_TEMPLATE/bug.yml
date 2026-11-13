@@ -1,0 +1,94 @@
+name: Bug report
+description: Something in the extension does not work
+title: "[bug] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for reporting. Please do not put your cobalt cookie (`CobaltSession`),
+        a Discord webhook URL or any other secret in this report.
+        If you would rather talk it through, use [Discord](https://discord.com/invite/HSTtrphyFg).
+
+  - type: input
+    id: extension-version
+    attributes:
+      label: Extension version
+      description: Settings → Debug panel, for example 0.1.0.
+      placeholder: 0.1.0
+    validations:
+      required: true
+
+  - type: input
+    id: browser
+    attributes:
+      label: Browser
+      description: The browser and its version, for example Chrome 130 or Safari 18.
+    validations:
+      required: true
+
+  - type: dropdown
+    id: role
+    attributes:
+      label: You were
+      options:
+        - GM, this browser relays
+        - GM, another GM relays
+        - Player
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: What you did
+      description: Step by step, so it can be reproduced.
+      placeholder: |
+        1. Rolled an attack on the D&D Beyond website
+        2. Looked at the roll list in Owlbear Rodeo
+    validations:
+      required: true
+
+  - type: textarea
+    id: happened
+    attributes:
+      label: What happened
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: What you expected
+    validations:
+      required: true
+
+  - type: textarea
+    id: console
+    attributes:
+      label: Errors in the browser console
+      description: F12 → Console, the red lines. Keep the whole message.
+      render: text
+
+  - type: textarea
+    id: report
+    attributes:
+      label: Support report
+      description: Settings → Debug panel → Copy support report. It contains no secrets.
+      render: text
+
+  - type: textarea
+    id: extensions
+    attributes:
+      label: Other extensions
+      description: Anything that could be involved, for example Stat Bubbles for D&D, the Initiative Tracker or Dice+.
+
+  - type: checkboxes
+    id: confirmations
+    attributes:
+      label: Before you send
+      options:
+        - label: I am on the newest version, or I say above which one I am on.
+          required: true
+        - label: There is no cobalt cookie, webhook URL or other secret in this report.
+          required: true

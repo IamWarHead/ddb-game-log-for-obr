@@ -1,0 +1,45 @@
+name: Feedback or idea
+description: Something that works but could be better, or a feature you miss
+title: "[feedback] "
+labels: ["feedback"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        For something that is broken, use the bug report instead.
+        Please keep secrets (cobalt cookie, webhook URLs) out of this form.
+
+  - type: dropdown
+    id: area
+    attributes:
+      label: What is it about
+      options:
+        - Rolls and roll cards
+        - Card look
+        - Character linking
+        - Party import and Stat Bubbles
+        - Initiative
+        - Discord
+        - Statistics
+        - The settings window
+        - Memberships and tiers
+        - Documentation
+        - Something else
+    validations:
+      required: true
+
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would you like
+      description: What you are trying to do, and what would help.
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: confirmations
+    attributes:
+      label: Before you send
+      options:
+        - label: There is no cobalt cookie, webhook URL or other secret in this form.
+          required: true
