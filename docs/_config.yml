@@ -1,5 +1,5 @@
-title: D&D Beyond Gamelog for Owlbear Rodeo
-description: Documentation for the D&D Beyond Gamelog extension for Owlbear Rodeo.
+title: DDB Gamelog for Owlbear Rodeo
+description: Documentation for the DDB Gamelog extension for Owlbear Rodeo.
 url: https://iamwarhead.github.io
 baseurl: /ddb-game-log-for-obr
 
@@ -26,7 +26,7 @@ aux_links:
   Discord: https://discord.com/invite/HSTtrphyFg
   Patreon: https://www.patreon.com/iamwarhead/
 
-footer_content: "D&D Beyond Gamelog for Owlbear Rodeo by Roland Hegedus. All rights reserved."
+footer_content: "DDB Gamelog for Owlbear Rodeo by Roland Hegedus. All rights reserved."
 
 callouts:
   warning:

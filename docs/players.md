@@ -5,7 +5,7 @@ nav_order: 5
 
 # For players
 
-If you play in a room where the GM uses D&D Beyond Gamelog, you do not need to do anything. There is nothing to install, no account to make and no membership to buy.
+If you play in a room where the GM uses DDB Gamelog, you do not need to do anything. There is nothing to install, no account to make and no membership to buy.
 
 ## What you see
 

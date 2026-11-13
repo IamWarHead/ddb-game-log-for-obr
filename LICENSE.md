@@ -1,4 +1,4 @@
-D&D Beyond Gamelog for Owlbear Rodeo
+DDB Gamelog for Owlbear Rodeo
 
 Copyright (c) 2026 Roland Hegedus. All rights reserved.
 

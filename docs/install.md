@@ -27,9 +27,9 @@ The extension is in alpha and is not in the Owlbear Rodeo extension store yet, s
 
 {% include screenshot.html src="install-add-extension.png" alt="The Add Extension dialog in Owlbear Rodeo with the manifest URL filled in" %}
 
-3. Open your room, open its extensions list and switch **D&D Beyond Gamelog** on.
+3. Open your room, open its extensions list and switch **DDB Gamelog** on.
 
-{% include screenshot.html src="install-room-extensions.png" alt="The room's extension list with D&D Beyond Gamelog switched on" %}
+{% include screenshot.html src="install-room-extensions.png" alt="The room's extension list with DDB Gamelog switched on" %}
 
 Once it is on, the Gamelog button appears in the toolbar of the room, for you and for every player.
 

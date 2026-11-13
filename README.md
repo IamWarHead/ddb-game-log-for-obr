@@ -1,4 +1,4 @@
-# D&D Beyond Gamelog for Owlbear Rodeo
+# DDB Gamelog for Owlbear Rodeo
 
 Bring your D&D Beyond rolls to [Owlbear Rodeo](https://www.owlbear.rodeo/). The GM sets it up once; **players install nothing.**
 
