@@ -18,20 +18,28 @@ Players need nothing: no account on Gamelog, no extension, no membership.
 
 The extension is in alpha and is not in the Owlbear Rodeo extension store yet, so you add it with its manifest URL.
 
-1. In Owlbear Rodeo, open your profile menu and choose **Add Extension**.
-2. Paste this manifest URL and confirm:
+1. In Owlbear Rodeo, open the menu at the bottom left of your room and choose **Extensions**.
+2. Click the **+** button at the top right, paste this manifest URL and click **Add**:
 
    ```text
    https://obr.datapoint.hu/manifest.json
    ```
 
-{% include screenshot.html src="install-add-extension.png" alt="The Add Extension dialog in Owlbear Rodeo with the manifest URL filled in" %}
+{% include screenshot.html src="install-room-extension-1.png" alt="The Owlbear Rodeo menu with the Extensions entry highlighted" %}
 
-3. Open your room, open its extensions list and switch **DDB Gamelog** on.
+{% include screenshot.html src="install-add-extension.png" alt="The Add a custom extension dialog in Owlbear Rodeo with the manifest URL filled in" %}
 
-{% include screenshot.html src="install-room-extensions.png" alt="The room's extension list with DDB Gamelog switched on" %}
+DDB Gamelog now shows up in **My Extensions**.
+
+{% include screenshot.html src="install-add-extension-installed.png" alt="My Extensions with DDB Gamelog added" %}
+
+3. In the room's **Extensions** list, switch **DDB Gamelog** on.
+
+{% include screenshot.html src="install-room-extension-2.png" alt="The room's extension list with DDB Gamelog switched on" %}
 
 Once it is on, the Gamelog button appears in the toolbar of the room, for you and for every player.
+
+{% include screenshot.html src="install-room-extension-installed.png" alt="The Gamelog button in the toolbar of the room and the open Gamelog window" %}
 
 {% include screenshot.html src="toolbar-button.png" alt="The Gamelog button in the Owlbear Rodeo toolbar" %}
 
