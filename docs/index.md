@@ -15,7 +15,7 @@ You are an Owlbear Rodeo GM or a player in a GM's room; you do not need to know 
 | Owlbear Rodeo | A free Owlbear Rodeo account for the GM |
 | D&D Beyond | The GM is the DM of the campaign that is connected |
 | Players | Nothing to install, no account on Gamelog |
-| Status | Alpha: still changing, please report what you find |
+| Status | Stable release: 1.0.0 |
 
 {% include screenshot.html src="home-overview.png" alt="An Owlbear Rodeo room with the Gamelog roll list open and a roll card on the map" %}
 
