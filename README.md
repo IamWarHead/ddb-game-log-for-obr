@@ -1,5 +1,7 @@
 # DDB Gamelog for Owlbear Rodeo
 
+![DDB Gamelog for Owlbear Rodeo](docs/assets/img/gamelog-hero.png)
+
 Bring your D&D Beyond rolls to [Owlbear Rodeo](https://www.owlbear.rodeo/). The GM sets it up once; **players install nothing.**
 
 Rolls made on dndbeyond.com or in the D&D Beyond player app show up in a roll list and as cards on the map, for everyone in the room. The extension uses the same Gamelog server and the same Patreon membership as the [Foundry VTT module](https://iamwarhead.github.io/ddb-game-log/).
