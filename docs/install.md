@@ -41,8 +41,6 @@ Once it is on, the Gamelog button appears in the toolbar of the room, for you an
 
 {% include screenshot.html src="install-room-extension-installed.png" alt="The Gamelog button in the toolbar of the room and the open Gamelog window" %}
 
-{% include screenshot.html src="toolbar-button.png" alt="The Gamelog button in the Owlbear Rodeo toolbar" %}
-
 {: .note }
 The wording of Owlbear Rodeo's own menus can change. If a menu is not where this page says, look for the place where you add an extension by URL.
 
