@@ -28,7 +28,6 @@ Hover the status dot in the Gamelog window, or open **Settings → Connection** 
 | Sign-in rejected, Session expired | Reload the room. If it stays, use **Reconnect** on the Connection page. |
 | Invalid, expired or revoked product key | Check the key, or remove it under **Membership**. |
 | Patreon unlinked | Log in with Patreon again, see [First steps]({{ '/first-steps.html' | relative_url }}#link-patreon). |
-| Closed test, join to connect | The Gamelog server is in a closed test. Use **Join the test** on the Connection page. |
 | Rate limited, retrying | Wait; Gamelog tries again by itself. |
 | Wrong D&D Beyond account, D&D Beyond user limit reached, Too many connections, Access blocked | Ask on Discord. |
 
