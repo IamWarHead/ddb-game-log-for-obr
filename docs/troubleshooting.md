@@ -41,6 +41,9 @@ Gamelog reads your D&D Beyond game log through **one** GM browser at a time: the
 - **The relaying browser must have the room open.** Close it, and rolls stop arriving for everyone until a GM relays again. Another GM with credentials saved takes over within seconds when it leaves.
 - **Two tabs are two connections.** Do not open the same room twice in one browser.
 - The **Overview** page says whether this browser or another GM's browser relays. The status dot shows **standby** when another GM's browser relays.
+
+{% include screenshot.html src="popover-header-not-relaying.png" alt="The Gamelog window header with the status dot and the Not relaying tooltip" %}
+
 - **Take over.** A second GM sees only **Take over** and the **Debug panel** in Settings. Enter your cobalt cookie, optionally a campaign link and a product key, and click **Take over relaying**. The relay moves to your browser, the other GM is told so, and the room's settings are then made in yours. Their browser only takes the relay back by itself when you leave the room.
 
 {% include screenshot.html src="takeover-page.png" alt="The Take over page of a GM whose browser does not relay" %}

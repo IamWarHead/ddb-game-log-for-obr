@@ -52,6 +52,8 @@ D&D Beyond shows the rolls made with Avrae in its game log. Gamelog can relay th
 
 Switch it on under **Settings → Integrations → Avrae**.
 
+{% include screenshot.html src="avrae-roll-discord-view.png" alt="A roll made with Avrae in Discord" %}
+
 {% include screenshot.html src="avrae-roll.png" alt="A roll made with Avrae shown as a card in the roll list" %}
 
 Known limit: `!multiroll` does not reach D&D Beyond's game log, so Gamelog never sees it.

@@ -20,6 +20,8 @@ Gamelog does not draw anything itself. It writes the numbers into Stat Bubbles, 
 2. [Link]({{ '/features/character-linking.html' | relative_url }}) your players' tokens to their D&D Beyond characters.
 3. Open **Settings → Integrations**, switch **Stat Bubbles** on and pick which stats to write. It is **off by default**, because it writes another extension's data.
 
+{% include screenshot.html src="stat-bubbles-integration-switch.png" alt="Settings, Integrations page, the Stat Bubbles switch" %}
+
 {% include screenshot.html src="stat-bubbles-settings.png" alt="Settings, Integrations page, the Stat Bubbles section" %}
 
 ## What is written
