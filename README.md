@@ -24,10 +24,10 @@ Step by step: [Install](https://iamwarhead.github.io/ddb-game-log-for-obr/instal
 - **Initiative:** an initiative roll sets the token's place in Owlbear Rodeo's Initiative Tracker, with an optional Dexterity tiebreaker. Free.
 - **Live token stats (PRO):** hit points and armor class follow D&D Beyond through Stat Bubbles for D&D.
 - **Monster rolls and the D&D Beyond player app (PRO).**
-- **Avrae rolls (PRO, experimental).**
+- **Avrae rolls (PRO).**
 - **Statistics:** party overview, highlights, luck, awards, charts, session history, import, export and a session recap.
 - **Discord (PRO):** public rolls and the session recap in your channel.
-- **Other Owlbear extensions (experimental):** rolls from extensions that support it join the roll list.
+- **Other Owlbear extensions (PRO):** rolls from extensions that support it join the roll list.
 
 Every feature page states the tier it needs, see [Features](https://iamwarhead.github.io/ddb-game-log-for-obr/features/) and [Tiers](https://iamwarhead.github.io/ddb-game-log-for-obr/tiers.html).
 

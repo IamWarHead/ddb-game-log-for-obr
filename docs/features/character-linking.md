@@ -4,12 +4,9 @@ parent: Features
 nav_order: 3
 ---
 
-# Character linking (experimental)
+# Character linking
 
-**Tier:** Free for linking by hand. PRO for the party import. **Status:** experimental.
-
-{: .warning }
-This feature is experimental. Please report problems, see [Feedback]({{ '/feedback.html' | relative_url }}).
+**Tier:** Free for linking by hand. PRO for the party import.
 
 Character linking tells Gamelog which token belongs to which D&D Beyond character. Without a link, a roll still shows in the roll list, but it cannot set initiative or update the token.
 
