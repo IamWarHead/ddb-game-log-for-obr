@@ -20,7 +20,7 @@ back_to_top: true
 back_to_top_text: Back to top
 
 # Shows a labelled box where an image is missing from assets/img. Set to false once the images are in.
-image_placeholders: true
+image_placeholders: false
 
 aux_links:
   Discord: https://discord.com/invite/HSTtrphyFg
