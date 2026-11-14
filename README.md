@@ -1,5 +1,3 @@
-# DDB Gamelog for Owlbear Rodeo
-
 ![DDB Gamelog for Owlbear Rodeo](docs/assets/img/gamelog-hero.png)
 
 Bring your D&D Beyond rolls to [Owlbear Rodeo](https://www.owlbear.rodeo/). The GM sets it up once; **players install nothing.**
