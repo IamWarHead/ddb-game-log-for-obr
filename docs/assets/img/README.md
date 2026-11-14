@@ -12,7 +12,6 @@ Until a file exists, the page shows a labelled placeholder box with the file nam
 | `install-add-extension-installed.png` | My Extensions with DDB Gamelog added | install |
 | `install-room-extension-2.png` | The room's extension list with DDB Gamelog switched on | install |
 | `install-room-extension-installed.png` | The Gamelog button in the room toolbar and the open Gamelog window | install |
-| `toolbar-button.png` | The Gamelog button in the Owlbear Rodeo toolbar | install |
 | `popover-gm.png` | The Gamelog window as GM: roll list, Settings button and status dot | first-steps |
 | `settings-overview.png` | Settings, Overview page with the "Finish setting up" checklist | first-steps |
 | `settings-connection.png` | Settings, Connection page | first-steps |
