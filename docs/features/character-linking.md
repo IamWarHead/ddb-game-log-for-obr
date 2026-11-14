@@ -62,6 +62,8 @@ A token you unlinked yourself is marked and is never linked by name again.
 
 {% include screenshot.html src="party-import-assets.png" alt="The Owlbear Rodeo Characters panel with imported characters" %}
 
+{% include screenshot.html src="party-import-assets-quick-bar.png" alt="The imported characters in the Owlbear Rodeo quick bar" %}
+
 The import needs PRO. Without it the section shows an upgrade link.
 
 ## Wrong character linked?

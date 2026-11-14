@@ -31,14 +31,20 @@ Until a file exists, the page shows a labelled placeholder box with the file nam
 | `link-dialog.png` | The "Link <token> to D&D Beyond" window | features/character-linking |
 | `party-import.png` | Settings, Characters page, Party import section | features/character-linking |
 | `party-import-assets.png` | The Owlbear Rodeo Characters panel with imported characters | features/character-linking |
+| `party-import-assets-quick-bar.png` | The imported characters in the Owlbear Rodeo quick bar | features/character-linking |
 | `initiative-settings.png` | Settings, Characters page, Initiative section | features/initiative |
 | `initiative-tracker.png` | The Initiative Tracker with initiative set from a D&D Beyond roll | features/initiative |
+| `initiative-tracker-dex-tiebreaker.png` | The Initiative Tracker with Dexterity tiebreaker counts such as 15.1 | features/initiative |
 | `initiative-roll-card-dex.png` | An initiative roll card with the "Dex 14 (+2)" tag | features/initiative |
+| `initiative-roll-card-dex-settings.png` | Settings, Characters page, "Show Dexterity on initiative roll cards" switch | features/initiative |
 | `replace-initiative-dialog.png` | The "Replace initiative?" window | features/initiative |
+| `replace-initiative-setting.png` | Settings, Characters page, "When the token already has initiative" setting | features/initiative |
 | `stat-bubbles-tokens.png` | Party tokens with health bars and armor class bubbles from Stat Bubbles for D&D | features/live-token-stats |
+| `stat-bubbles-integration-switch.png` | Settings, Integrations page with the Stat Bubbles switch highlighted | features/live-token-stats |
 | `stat-bubbles-settings.png` | Settings, Integrations page, Stat Bubbles section | features/live-token-stats |
 | `discord-config-1.png` | Integrations page, Discord section, webhook hidden | features/discord |
 | `discord-config-2.png` | Discord section once the webhook is connected | features/discord |
+| `discord-welcome-message.png` | The welcome message in the Discord channel after the webhook is connected | features/discord |
 | `discord-message.png` | A relayed roll in a Discord channel | features/discord |
 | `statistics-overview.png` | Statistics, Overview tab with highlights and the character table | features/statistics |
 | `statistics-checks.png` | Statistics, Checks & saves tab with skills and saves | features/statistics |
@@ -55,11 +61,14 @@ Until a file exists, the page shows a labelled placeholder box with the file nam
 | `legendary-patrons.png` | Settings, Legendary Patrons page with a few names on the list | features/legendary-patrons |
 | `integrations.png` | Settings, Integrations page with the four integration switches | integrations |
 | `avrae-roll.png` | A roll made with Avrae shown as a card | integrations |
+| `avrae-roll-discord-view.png` | The same Avrae roll in the Discord channel | integrations |
 | `extension-roll-card.png` | A roll card with a "via …" tag from another extension | integrations |
 | `player-roll-list.png` | The Gamelog window as a player: roll list, no Settings button | players |
 | `player-history-off.png` | The Gamelog window as a player when the GM does not share the history ("The GM does not share the roll history.") | players |
+| `player-history-off-setting.png` | Settings, Rolls & cards page, "Players see the roll history" switch | players |
 | `debug-panel.png` | Settings, Debug panel with "Copy support report" | troubleshooting |
 | `takeover-page.png` | The Take over page of a GM whose browser does not relay | troubleshooting |
+| `popover-header-not-relaying.png` | The Gamelog window header with the "Not relaying" tooltip | troubleshooting |
 
 ## Naming
 

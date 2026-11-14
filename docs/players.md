@@ -28,6 +28,10 @@ You see **public** rolls only. Rolls that someone sent to the DM or kept to them
 
 The GM can switch the roll history off for players. Your Gamelog window then shrinks to a note, "The GM does not share the roll history.", and you get no earlier rolls when you join. Live roll cards still appear on your map.
 
+The GM switches it with **Players see the roll history** under **Settings → Rolls & cards → Roll history**.
+
+{% include screenshot.html src="player-history-off-setting.png" alt="Settings, Rolls and cards page, the Players see the roll history switch" %}
+
 {% include screenshot.html src="player-history-off.png" alt="The Gamelog window as a player when the GM does not share the roll history" %}
 
 ## Your own rolls

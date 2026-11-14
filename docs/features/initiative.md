@@ -43,10 +43,18 @@ Equal rolls are ordered by Dexterity.
 
 The Dexterity comes from D&D Beyond with PRO. Without PRO, type it into the **Dex** column of the [character linking table]({{ '/features/character-linking.html' | relative_url }}); a score you type always wins.
 
+{% include screenshot.html src="initiative-tracker-dex-tiebreaker.png" alt="The Initiative Tracker with the Dexterity tiebreaker in the counts, for example 15.1" %}
+
+With **Show Dexterity on initiative roll cards** switched on, the cards show the Dexterity too.
+
+{% include screenshot.html src="initiative-roll-card-dex-settings.png" alt="Settings, Characters page, the Show Dexterity on initiative roll cards switch" %}
+
 {% include screenshot.html src="initiative-roll-card-dex.png" alt="An initiative roll card with the Dex tag" %}
 
 ## When the token already has initiative
 
 With **Ask me first**, a window opens in the browser of the GM who relays rolls: **Replace initiative?** It says the token already has initiative and offers two buttons, **Keep** the old count or **Replace** it with the new one from D&D Beyond. Several questions wait in a queue; closing the window keeps every waiting token's initiative. A count of 0, which the tracker gives new tokens, counts as no initiative.
+
+{% include screenshot.html src="replace-initiative-setting.png" alt="Settings, Characters page, the When the token already has initiative setting" %}
 
 {% include screenshot.html src="replace-initiative-dialog.png" alt="The Replace initiative? window" %}

@@ -31,6 +31,10 @@ Do this in the browser of the GM who relays D&D Beyond rolls.
 
 {% include screenshot.html src="discord-config-2.png" alt="The Discord section once the webhook is connected" %}
 
+The channel gets a welcome message once the webhook is connected.
+
+{% include screenshot.html src="discord-welcome-message.png" alt="The welcome message of DDB Gamelog in the Discord channel" %}
+
 {: .note }
 A webhook URL lets anyone post to your channel. Do not share it and do not show it in screenshots. Gamelog stores it encrypted on the Gamelog server and never shows it again, not even to players.
 
