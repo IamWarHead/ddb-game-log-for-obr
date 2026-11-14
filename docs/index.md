@@ -4,11 +4,9 @@ nav_order: 1
 permalink: /
 ---
 
-# DDB Gamelog for Owlbear Rodeo
+<img src="{{ '/assets/img/gamelog-hero.png' | relative_url }}" alt="DDB Gamelog for Owlbear Rodeo">
 
 DDB Gamelog brings your D&D Beyond game log into [Owlbear Rodeo](https://www.owlbear.rodeo/) (OBR). Rolls made on D&D Beyond show up in a roll list and as cards on the map, for everyone in the room. **The GM sets it up once; players install nothing.**
-
-<img src="{{ '/assets/img/gamelog-hero.png' | relative_url }}" alt="DDB Gamelog for Owlbear Rodeo">
 
 You are an Owlbear Rodeo GM or a player in a GM's room; you do not need to know anything about code.
 
