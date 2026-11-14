@@ -4,12 +4,9 @@ parent: Features
 nav_order: 4
 ---
 
-# Initiative (experimental)
+# Initiative
 
-**Tier:** Free. **Status:** experimental. Reading the Dexterity from D&D Beyond is PRO.
-
-{: .warning }
-This feature is experimental. Please report problems, see [Feedback]({{ '/feedback.html' | relative_url }}).
+**Tier:** Free. Reading the Dexterity from D&D Beyond is PRO.
 
 When a character rolls initiative on D&D Beyond, Gamelog can set the linked token's initiative in Owlbear Rodeo's **Initiative Tracker** extension. It is **off by default**: switch on **Set initiative from rolls** under **Settings → Characters → Initiative**.
 

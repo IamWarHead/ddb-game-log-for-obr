@@ -111,6 +111,12 @@ See [Character linking]({{ '/features/character-linking.html' | relative_url }})
 - The token must be linked, and the stat you want must be switched on.
 - Stat Bubbles' own **hide** switch decides who may see the bars.
 
+## A stat I changed on the map went back, or did not reach another scene
+
+- **Keep map edits** under **Integrations → Stat Bubbles** must be on.
+- A change of a stat synced from D&D Beyond lasts until that stat changes on D&D Beyond, see [Your changes on the map]({{ '/features/live-token-stats.html' | relative_url }}#your-changes-on-the-map).
+- The relaying GM's browser must be open when you make the change, and the token must be linked.
+
 ## Statistics are missing rolls
 
 Statistics are kept in the browser of the GM who relays. Rolls made while no GM browser had the room open are missing; fill the gap with **Import from D&D Beyond** (PRO), see [Statistics]({{ '/features/statistics.html' | relative_url }}#import-and-export-pro).

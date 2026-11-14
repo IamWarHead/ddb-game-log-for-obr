@@ -14,18 +14,18 @@ Gamelog works with other Owlbear Rodeo extensions and with services outside it. 
 
 | Integration | What it does with Gamelog | Tier |
 | --- | --- | --- |
-| [Initiative Tracker](#initiative-tracker) | Sets the initiative of linked tokens from D&D Beyond rolls | Free, experimental |
+| [Initiative Tracker](#initiative-tracker) | Sets the initiative of linked tokens from D&D Beyond rolls | Free |
 | [Stat Bubbles for D&D](#stat-bubbles-for-dd) | Hit points and armor class of linked tokens follow D&D Beyond | PRO |
 | [Discord](#discord) | Public rolls and the session recap in a channel | PRO |
-| [Avrae](#avrae-experimental) | Rolls made with the Avrae Discord bot appear in the room | PRO, experimental |
-| [Other Owlbear extensions](#other-owlbear-extensions-experimental) | Rolls from extensions that support it join the roll list | Free, experimental |
+| [Avrae](#avrae) | Rolls made with the Avrae Discord bot appear in the room | PRO |
+| [Other Owlbear extensions](#other-owlbear-extensions) | Rolls from extensions that support it join the roll list | PRO |
 
 The Overview page counts the integrations that run now and lists them.
 
 ## Initiative Tracker
 
 **Needs:** the official Initiative Tracker extension.
-**Tier:** Free. **Status:** experimental.
+**Tier:** Free.
 
 An initiative roll from D&D Beyond sets the linked token's initiative. See [Initiative]({{ '/features/initiative.html' | relative_url }}).
 
@@ -43,10 +43,10 @@ See [Live token stats]({{ '/features/live-token-stats.html' | relative_url }}).
 
 See [Discord]({{ '/features/discord.html' | relative_url }}).
 
-## Avrae (experimental) {#avrae-experimental}
+## Avrae
 
 **Needs:** your table rolls with the [Avrae](https://avrae.io) Discord bot, and the characters are linked to D&D Beyond.
-**Tier:** PRO. **Status:** experimental, **off by default**.
+**Tier:** PRO. **Off by default**.
 
 D&D Beyond shows the rolls made with Avrae in its game log. Gamelog can relay them too, so `!check persuasion`, `!save con` or `!roll 1d20+5` appear as cards in the room.
 
@@ -56,9 +56,9 @@ Switch it on under **Settings → Integrations → Avrae**.
 
 Known limit: `!multiroll` does not reach D&D Beyond's game log, so Gamelog never sees it.
 
-## Other Owlbear extensions (experimental) {#other-owlbear-extensions-experimental}
+## Other Owlbear extensions
 
-**Tier:** Free. **Status:** experimental, **off by default**.
+**Tier:** PRO. **Off by default**.
 
 Rolls made with other Owlbear Rodeo extensions that support it, for example 5e Tools Integration, join the roll list and the map cards. They carry a **via** tag with the extension's name, so you can tell them from D&D Beyond rolls.
 

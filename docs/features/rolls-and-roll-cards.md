@@ -28,7 +28,7 @@ When someone rolls on D&D Beyond in your connected campaign, the roll appears in
 | Card themes, character avatars on cards | Basic |
 | Monster rolls | PRO |
 | Rolls from the D&D Beyond mobile app | PRO |
-| Rolls made with the Avrae Discord bot (experimental, off by default) | PRO |
+| Rolls made with the Avrae Discord bot (off by default) | PRO |
 
 Without the PRO items, those rolls simply do not arrive. See [Tiers]({{ '/tiers.html' | relative_url }}).
 
