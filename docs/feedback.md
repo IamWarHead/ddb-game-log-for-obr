@@ -20,7 +20,7 @@ If you are not on the server yet, join it first: [https://discord.com/invite/HST
 
 ## What to include
 
-- The extension version, for example 0.1.0. You find it on **Settings → Debug panel**.
+- The extension version, for example 1.0.0. You find it on **Settings → Debug panel**.
 - Your browser and its version.
 - Whether you were the GM whose browser relays, another GM, or a player.
 - What you did, step by step.

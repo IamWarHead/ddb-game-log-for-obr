@@ -16,7 +16,7 @@ Players need nothing: no account on Gamelog, no extension, no membership.
 
 ## Add the extension
 
-The extension is in alpha and is not in the Owlbear Rodeo extension store yet, so you add it with its manifest URL.
+Add the extension with its manifest URL:
 
 1. In Owlbear Rodeo, open the menu at the bottom left of your room and choose **Extensions**.
 2. Click the **+** button at the top right, paste this manifest URL and click **Add**:
