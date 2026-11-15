@@ -19,7 +19,7 @@ Gamelog works with other Owlbear Rodeo extensions and with services outside it. 
 | [Stat Bubbles for D&D](#stat-bubbles-for-dd) | Hit points and armor class of linked tokens follow D&D Beyond | PRO |
 | [Discord](#discord) | Public rolls and the session recap in a channel | PRO |
 | [Avrae](#avrae) | Rolls made with the Avrae Discord bot appear in the room | PRO |
-| [Other Owlbear extensions](#other-owlbear-extensions) | Rolls from extensions that support it join the roll list | PRO |
+| [Other Owlbear extensions](#other-owlbear-extensions) | Rolls from extensions that support it join the roll list | Free |
 
 The Overview page counts the integrations that run now and lists them.
 
@@ -61,7 +61,7 @@ Known limit: `!multiroll` does not reach D&D Beyond's game log, so Gamelog never
 
 ## Other Owlbear extensions
 
-**Tier:** PRO. **Off by default**.
+**Tier:** Free. **Off by default**.
 
 Rolls made with other Owlbear Rodeo extensions that support it, for example 5e Tools Integration, join the roll list and the map cards. They carry a **via** tag with the extension's name, so you can tell them from D&D Beyond rolls.
 

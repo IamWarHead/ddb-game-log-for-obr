@@ -27,7 +27,7 @@ Step by step: [Install](https://iamwarhead.github.io/ddb-game-log-for-obr/instal
 - **Avrae rolls (PRO).**
 - **Statistics:** party overview, highlights, luck, awards, charts, session history, import, export and a session recap.
 - **Discord (PRO):** public rolls and the session recap in your channel.
-- **Other Owlbear extensions (PRO):** rolls from extensions that support it join the roll list.
+- **Other Owlbear extensions (Free):** rolls from extensions that support it join the roll list.
 
 Every feature page states the tier it needs, see [Features](https://iamwarhead.github.io/ddb-game-log-for-obr/features/) and [Tiers](https://iamwarhead.github.io/ddb-game-log-for-obr/tiers.html).
 
