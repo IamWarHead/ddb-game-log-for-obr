@@ -41,7 +41,7 @@ Players need no account, no extension and no membership. Rolls that someone sent
 - **Session recap (PRO):** a recap of the session as a card in the roll list and as a message in Discord, also automatically when a session ends.
 - **Import and export (PRO):** read earlier rolls back from D&D Beyond so the statistics reach before tracking began, and export the figures as CSV or JSON.
 - **Discord (PRO):** public rolls, posted as the character with the dice, and the session recap in your channel.
-- **More rolls (PRO):** monster rolls, rolls from the D&D Beyond mobile app, Avrae rolls and rolls from other Owlbear extensions.
+- **More rolls (PRO):** monster rolls, rolls from the D&D Beyond mobile app and Avrae rolls.
 - **Several GMs:** only one GM browser relays rolls at a time, and another GM can take over from the settings.
 - **Legendary Patrons (MAX):** MAX supporters can put their name on the extension's Legendary Patrons page.
 
@@ -53,6 +53,7 @@ Players need no account, no extension and no membership. Rolls that someone sent
 
 - **Official [Initiative Tracker](https://extensions.owlbear.rodeo/initiative-tracker) (Free):** D&D Beyond initiative rolls set the initiative of your linked tokens, with an optional Dexterity tiebreaker.
 - **[Stat Bubbles for D&D](https://extensions.owlbear.rodeo/bubble-tracker) (PRO):** hit points and armor class of linked tokens follow D&D Beyond, shown as the health bars and bubbles you already use.
+- **Other Owlbear extensions (Free):** rolls from extensions that support it, for example 5e Tools Integration, join the roll list and the map cards.
 
 ## Memberships
 

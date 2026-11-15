@@ -28,6 +28,7 @@ The membership is the one of the GM whose browser relays D&D Beyond rolls, and i
 | Roll card position, fade out, roll history settings | Free |
 | Manual character linking, Dexterity typed per token | Free |
 | Initiative from rolls, Dexterity tiebreaker | Free |
+| Rolls from other Owlbear extensions | Free |
 | Statistics: session so far (teaser) | Free |
 | Card themes | Basic |
 | D&D Beyond character avatars on cards | Basic |
@@ -35,7 +36,6 @@ The membership is the one of the GM whose browser relays D&D Beyond rolls, and i
 | Monster rolls | PRO |
 | Rolls from the D&D Beyond mobile app | PRO |
 | Rolls made with the Avrae Discord bot | PRO |
-| Rolls from other Owlbear extensions | PRO |
 | Party import, Dexterity from D&D Beyond | PRO |
 | Live token stats through Stat Bubbles for D&D | PRO |
 | Discord relay of public rolls | PRO |
