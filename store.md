@@ -12,11 +12,9 @@ manifest: https://obr.datapoint.hu/manifest.json
 learn-more: https://iamwarhead.github.io/ddb-game-log-for-obr/
 ---
 
-# DDB Gamelog
+![DDB Gamelog for Owlbear Rodeo](https://iamwarhead.github.io/ddb-game-log-for-obr/assets/img/gamelog-hero.png)
 
 Rolls made on D&D Beyond show up in your Owlbear Rodeo room, as a roll list and as cards on the map, for everyone in the room. **The GM sets it up once; players install nothing.**
-
-![DDB Gamelog for Owlbear Rodeo](https://iamwarhead.github.io/ddb-game-log-for-obr/assets/img/gamelog-hero.png)
 
 DDB Gamelog is not a new project. It has been bringing D&D Beyond rolls to virtual tabletops for almost six years, and this extension builds on that experience.
 
