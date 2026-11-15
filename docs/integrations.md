@@ -1,6 +1,7 @@
 ---
 title: Integrations
 nav_order: 6
+has_children: true
 ---
 
 # Integrations
@@ -71,5 +72,6 @@ Switch it on under **Settings → Integrations → Other Owlbear extensions**.
 - Public rolls need a relaying GM in the room, that is, a GM connected to D&D Beyond in Gamelog. Without one, public rolls are dropped. Any player's extension can send them.
 - Hidden rolls show only in the history of the GM who made them. A hidden roll sent by a player is dropped.
 - Discord, the statistics and the initiative tracker ignore these rolls.
+- It needs PRO on the account of the GM who relays the room. Players do not need PRO.
 
-Are you an extension developer and want to send rolls to Gamelog? Ask on [Discord](https://discord.com/invite/HSTtrphyFg).
+Are you an extension developer and want to send rolls to Gamelog? See the [Extension API]({{ '/extension-api.html' | relative_url }}) for the schema and examples.
