@@ -7,6 +7,10 @@ nav_order: 5
 
 If you play in a room where the GM uses DDB Gamelog, you do not need to do anything. There is nothing to install, no account to make and no membership to buy.
 
+## Welcome {#welcome}
+
+The first time you are in a room where a GM relays D&D Beyond rolls, a small welcome window opens. It says who set Gamelog up, which rolls you see and where roll cards appear, with a link to the Discord. Click **Got it** to close it. It opens once per browser.
+
 ## What you see
 
 - The **Gamelog button** in the toolbar opens the **roll list**: the latest rolls of the room, with the dice and the total.

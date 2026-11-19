@@ -17,6 +17,21 @@ Click **Settings**. The settings window opens on the **Overview** page. While th
 
 {% include screenshot.html src="settings-overview.png" alt="Settings, Overview page with the Finish setting up checklist" %}
 
+## The welcome tour {#welcome-tour}
+
+The first time you open a room with the extension as GM, a **Welcome to DDB Gamelog** window opens. It has four steps:
+
+- **Welcome**: what DDB Gamelog does, and whether your browser relays the rolls or another GM's does.
+- **Quick start**: the five steps on this page (log in, pick your campaign, link Patreon, link your characters, make a roll). Each step ticks itself off when it is done, and its button opens the right page and section of the settings. Steps that need the Gamelog server are marked **Needs connection** while you are not connected.
+- **Membership**: your plan and what each plan includes.
+- **What's new**: the highlights of the newest release.
+
+The window opens every time until you click **Get started** on the last step or tick **Don't show again**. The answer is remembered per browser, for every room. Reopen the tour any time with **Welcome tour** on the **Overview** page of the settings.
+
+After an update, the window opens once on the **What's new** step with what changed since the version you last ran, even if you ticked **Don't show again**.
+
+Players get a shorter welcome of their own, see [For players]({{ '/players.html' | relative_url }}#welcome).
+
 {: .note }
 Only GMs have Settings. Players see the roll list only, see [For players]({{ '/players.html' | relative_url }}).
 
