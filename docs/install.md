@@ -56,7 +56,7 @@ You do not install updates. The extension is loaded from the address above, so a
 
 If the extension tells you that your version is no longer supported ("Extension outdated, reload"), reload the room in your browser.
 
-The extension shows its version on the Debug panel: **Settings → Debug panel**.
+The extension shows its version on the Debug panel: **Settings → Debug panel**. As GM, the **What's new** button on the version card there opens the highlights of this version.
 
 ## Remove it
 
