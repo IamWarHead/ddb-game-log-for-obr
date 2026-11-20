@@ -52,11 +52,11 @@ You add the extension to your account once. Switch it on in every room where you
 
 ## Update
 
-You do not install updates. The extension is loaded from the address above, so a new version is used the next time the room is opened or reloaded.
+You do not install updates. The extension is loaded from the address above, so a new version is used the next time the room is opened or reloaded. After an update the GM gets the welcome window once, on its **What's new** step, with what changed since the version that ran before, see [The welcome tour]({{ '/first-steps.html' | relative_url }}#welcome-tour).
 
 If the extension tells you that your version is no longer supported ("Extension outdated, reload"), reload the room in your browser.
 
-The extension shows its version on the Debug panel: **Settings → Debug panel**.
+The extension shows its version on the Debug panel: **Settings → Debug panel**. As GM, the **What's new** button on the version card there opens the highlights of this version.
 
 ## Remove it
 

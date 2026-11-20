@@ -17,6 +17,21 @@ Click **Settings**. The settings window opens on the **Overview** page. While th
 
 {% include screenshot.html src="settings-overview.png" alt="Settings, Overview page with the Finish setting up checklist" %}
 
+## The welcome tour {#welcome-tour}
+
+The first time you open a room with the extension as GM, a **Welcome to DDB Gamelog** window opens. It has four steps:
+
+- **Welcome**: what DDB Gamelog does, and whether your browser relays the rolls or another GM's does.
+- **Quick start**: the five steps on this page (log in, pick your campaign, link Patreon, link your characters, make a roll). Each step ticks itself off when it is done, and its button opens the right page and section of the settings. Steps that need the Gamelog server are marked **Needs connection** while you are not connected.
+- **Membership**: your plan and what each plan includes. Each paid plan carries a tier badge, and the plans that your membership already includes are marked **Included in your plan**. Open the tour right on this step with **Compare the plans** on the **Connection** page.
+- **What's new**: the highlights of the newest release. Open the tour right on this step with the **What's new** button on the version card of the **Debug panel**.
+
+The window opens every time until you click **Get started** on the last step or tick **Don't show again**. The answer is remembered per browser, for every room. Reopen the tour any time with **Open the tour** in the **Welcome tour** section of the **Overview** page of the settings.
+
+After an update, the window opens once on the **What's new** step with what changed since the version you last ran, even if you ticked **Don't show again**.
+
+Players get a shorter welcome of their own, see [For players]({{ '/players.html' | relative_url }}#welcome).
+
 {: .note }
 Only GMs have Settings. Players see the roll list only, see [For players]({{ '/players.html' | relative_url }}).
 
@@ -61,7 +76,7 @@ If your campaign is not listed, use **Reload the list** (the circular arrow). Yo
 
 Linking Patreon unlocks Basic, PRO or MAX features in this room, for everyone in it. You can skip this step: the Free tier works without it, see [Tiers]({{ '/tiers.html' | relative_url }}).
 
-On the Connection page, scroll to **Membership** and click **Log in with Patreon**. When it works, the page says that the room is linked to your membership and shows its tier. Changes on Patreon apply within seconds.
+On the Connection page, scroll to **Membership** and click **Log in with Patreon**. When it works, the page says that the room is linked to your membership and shows its tier. Changes on Patreon apply within seconds. To see what each plan includes, and where yours stands, use **Compare the plans** under **Plans & benefits** right below.
 
 {% include screenshot.html src="patreon-link-before.png" alt="The Membership section before linking Patreon" %}
 
